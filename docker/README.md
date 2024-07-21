@@ -7,3 +7,9 @@
 	- FROM -> base_image
 	- 
 
+### 1- Commands:
+	
+	docker image pull <image_name>
+ 	docker container create <image_name>
+  	docker container start <conainer_name>
+   	docker container stop <container_name>
