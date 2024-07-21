@@ -20,5 +20,5 @@
  	docker run -d centos
   	docker run -d centos sleep 20
    	docker exec -it <container_id> bash
-    	docker ps -a
-     	docker images -a
+   	docker ps -a
+   	docker images -a
