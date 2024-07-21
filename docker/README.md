@@ -5,7 +5,10 @@
 ### 1- Dockerfile:
 
 	- FROM -> base_image
-	- 
+	- WORKDIR /app
+ 	- COPY . .
+  	- RUN 
+   	- CMD ["go", "run", "."]
 
 ### 1- Commands:
 	
